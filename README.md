@@ -8,7 +8,7 @@ Welcome to the Network Penetration Testing Documentation repository. This reposi
 
 1. [**Nmap**](Nmap.md): Nmap is a powerful network scanning tool used for discovering open ports, services, and vulnerabilities on remote systems.
 
-2. [**Wireshark**](Wireshark_.md): Wireshark is a popular network protocol analyzer used to capture and inspect network traffic.
+2. [**Wireshark**](Wireshark.md): Wireshark is a popular network protocol analyzer used to capture and inspect network traffic.
 
 3. [**Metasploit**](Metasploit.md): Metasploit is a penetration testing framework that helps identify, exploit, and validate vulnerabilities in target systems.
 
